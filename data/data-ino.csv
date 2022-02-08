@@ -1,0 +1,101 @@
+Code,Title,Heures Totales,Dont TP,Heures projet,Num Semestre,Type,Id semestre
+R1.01,"SHS : Sociologie, Psychologie, Anthropologie, Ethnologie, Philosophie…",15,0,,1,ressource,20220208151440
+R1.02,Histoire des médias,10,0,,1,ressource,20220208151440
+R1.03,Théories de l’information et de la communication,22,0,,1,ressource,20220208151440
+R1.04,Études des organisations,14,0,,1,ressource,20220208151440
+R1.05,Recherche d’information et veille,14,5,,1,ressource,20220208151440
+R1.06,Anglais,18,9,,1,ressource,20220208151440
+R1.07,Langue vivante 2,18,9,,1,ressource,20220208151440
+R1.08,Expression écrite et orale,18,9,,1,ressource,20220208151440
+R1.09,Publication assistée par ordinateur (PAO),13,8,,1,ressource,20220208151440
+R1.10,Informatique,13,8,,1,ressource,20220208151440
+R1.11,Web,13,10,,1,ressource,20220208151440
+R1.12,Projet personnel et professionnel,10,5,,1,ressource,20220208151440
+R1.INFONUM.13,Culture et économie de l'information,20,0,,1,ressource,20220208151440
+R1.INFONUM.14,Recherche d’information spécialisée,10,0,,1,ressource,20220208151440
+R1.INFONUM.15,Métadonnées,18,0,,1,ressource,20220208151440
+R1.INFONUM.17,Gestion de projet,15,5,,1,ressource,20220208151440
+R1.INFONUM.18,Veille informationnelle et e-réputation,10,0,,1,ressource,20220208151440
+R1.INFONUM.19,PAO et médias professionnels,10,10,,1,ressource,20220208151440
+R1.INFONUM.20,Web et informatique professionnels,12,12,,1,ressource,20220208151440
+R2.01,Économie générale,18,0,,2,ressource,20220208151448
+R2.02,Droit - Droit du travail,18,0,,2,ressource,20220208151448
+R2.03,"SHS : Sociologie, Psychologie, Anthropologie, Ethnologie, Philosophie…",20,0,,2,ressource,20220208151448
+R2.04,Culture générale et humanités,14,0,,2,ressource,20220208151448
+R2.05,Anglais,20,6,,2,ressource,20220208151448
+R2.06,Langue vivante 2,20,6,,2,ressource,20220208151448
+R2.07,Expression écrite et orale,20,6,,2,ressource,20220208151448
+R2.08,Image et son,15,6,,2,ressource,20220208151448
+R2.09,Culture numérique,15,0,,2,ressource,20220208151448
+R2.10,Projet personnel et professionnel,10,5,,2,ressource,20220208151448
+R2.11INO,Recherche d’information spécialisée,12,0,,2,ressource,20220208151448
+R2.12INO,Analyse des besoins,12,0,,2,ressource,20220208151448
+R2.13INO,Bases de données documentaires,15,12,,2,ressource,20220208151448
+R2.14INO,Veille informationnelle et e-réputation,24,12,,2,ressource,20220208151448
+R2.15INO,PAO et médias professionnels,15,12,,2,ressource,20220208151448
+R2.16INO,Web et informatique professionnels,15,12,,2,ressource,20220208151448
+R3.01,Théories de l'information et de la communication,20,0,,3,ressource,20220208151453
+R3.02,Linguistique Sémiologie,30,0,,3,ressource,20220208151453
+R3.03,Culture numérique,20,0,,3,ressource,20220208151453
+R3.04,Anglais,20,10,,3,ressource,20220208151453
+R3.05,Langue vivante 2,20,10,,3,ressource,20220208151453
+R3.06,Expression écrite et orale,20,10,,3,ressource,20220208151453
+R3.07,Projet Personnel et Professionnel,10,0,,3,ressource,20220208151453
+R3.INFONUM.07,Veille stratégique et intelligence économique,10,8,,3,ressource,20220208151453
+R3.INFONUM.08,Techniques de communication numérique,12,10,,3,ressource,20220208151453
+R3.INFONUM.09,Data et documents,12,10,,3,ressource,20220208151453
+R3.INFONUM.10,Pratiques collaboratives et partage des connaissances,10,6,,3,ressource,20220208151453
+R3.INFONUM.11,Analyse d'un système d'information,10,8,,3,ressource,20220208151453
+R3.INFONUM.12,Projets de dématérialisation,10,8,,3,ressource,20220208151453
+R4.01,Sciences humaines et sociales,18,0,,4,ressource,20220208151459
+R4.02,Droit de l'information communication,18,0,,4,ressource,20220208151459
+R4.03,Veille (niveau 2),18,0,,4,ressource,20220208151459
+R4.04,Anglais,20,10,,4,ressource,20220208151459
+R4.05,Langue vivante 2,20,10,,4,ressource,20220208151459
+R4.06,Expression écrite et orale,20,10,,4,ressource,20220208151459
+R4.07,Projet Personnel et Professionnel,10,0,,4,ressource,20220208151459
+R4.INFONUM.07,Data et documents,10,4,,4,ressource,20220208151459
+R4.INFONUM.08,Pratiques collaboratives et partage des connaissances,12,4,,4,ressource,20220208151459
+R4.INFONUM.09,Records management,8,8,,4,ressource,20220208151459
+R4.INFONUM.10,Référencement,8,8,,4,ressource,20220208151459
+R5.01,Théories de l'information et de la communication,15,0,,5,ressource,20220208151504
+R5.01,Théories de l'information et de la communication,15,0,,5,ressource,20220208151504
+R5.02,Relations et communication interculturelles,15,0,,5,ressource,20220208151504
+R5.02,Relations et communication interculturelles,15,0,,5,ressource,20220208151504
+R5.03,Responsabilité sociale des organisations,20,0,,5,ressource,20220208151504
+R5.03,Responsabilité sociale des organisations,20,0,,5,ressource,20220208151504
+R5.04,Projet personnel et professionnel,10,0,,5,ressource,20220208151504
+R5.04,Projet personnel et professionnel,10,0,,5,ressource,20220208151504
+R5.INFONUM.05,Data et documents,18,4,,5,ressource,20220208151504
+R5.INFONUM.06,Pratiques collaboratives et partage des connaissances,18,4,,5,ressource,20220208151504
+R5.INFONUM.07,Architechture de l'information,18,4,,5,ressource,20220208151504
+R5.INFONUM.08,Stratégies de veille collaborative,12,0,,5,ressource,20220208151504
+R5.INFONUM.09,Stratégies de communication digitale,18,6,,5,ressource,20220208151504
+R5.INFONUM.10,Records management,12,4,,5,ressource,20220208151504
+R5.INFONUM.11,Droit de l'information,12,0,,5,ressource,20220208151504
+R5.INFONUM.12,Expérience utilisateurs et ergonomie des interfaces,18,4,,5,ressource,20220208151504
+S1.PORTFOLIO,Portfolio INO S1,0,0,,1,SAE,20220208151440
+S1.02,Réaliser une synthèse documentaire à propos d'une organisation,10,0,,1,SAE,20220208151440
+S1.03,Défendre un projet à l'aide d'un document de présentation (français et langue étrangère),12,8,,1,SAE,20220208151440
+S1.04INO,Comprendre les besoins des usagers d'un système d'information,10,4,,1,SAE,20220208151440
+S1.05INO,Élaborer une bibliographie normée,8,0,,1,SAE,20220208151440
+S2.PORTFOLIO,Portfolio INO S2,0,0,,2,SAE,20220208151448
+S2.03,Étude d’une organisation,8,4,,2,SAE,20220208151448
+S2.04,Enquête sur des objets infocommunicationnels,8,0,,2,SAE,20220208151448
+S2.05INO,Analyse méthodique d'un système d'information,12,5,,2,SAE,20220208151448
+S2.06INO,Préconisations de veille,12,0,,2,SAE,20220208151448
+S2.STAGEINO,Stage INO S2,0,0,,2,SAE,20220208151448
+S3.PORTFOLIO,Portfolio INO S3,6,6,20,3,SAE,20220208151453
+S3.INFONUM.02,Projet : partage de l'information (niv. 1),20,18,80,3,SAE,20220208151453
+S3.INFONUM.03,Constituer un fonds spécifique,20,18,40,3,SAE,20220208151453
+S4.PORTFOLIO,Portfolio INO S4,6,6,20,4,SAE,20220208151459
+S4.INFONUM.03,Projet : partage de l'information (niv. 2),22,14,20,4,SAE,20220208151459
+S4.INFONUM.04,Réaliser une prestation de veille,22,14,50,4,SAE,20220208151459
+S4.STAGEINO,Stage INO S4,0,0,0,4,SAE,20220208151459
+S5.PORTFOLIO,Portfolio INO S5,6,6,20,5,SAE,20220208151504
+S5.02INO,Mettre en oeuvre un projet de communication numérique (niv. 1),24,18,60,5,SAE,20220208151504
+S5.03INO,Accompagnement de l'utilisateur,24,18,60,5,SAE,20220208151504
+S6.PORTFOLIO,Portfolio INO S6,6,6,20,6,SAE,20220208151509
+S6.03INO,Data management,16,16,30,6,SAE,20220208151509
+S6.04INO,Mettre en oeuvre un projet de communication numérique (niv. 2),10,10,30,6,SAE,20220208151509
+S6.STAGEINO,Stage INO S6,0,0,0,6,SAE,20220208151509
